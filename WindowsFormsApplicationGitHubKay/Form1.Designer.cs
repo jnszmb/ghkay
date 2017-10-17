@@ -70,5 +70,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.CheckBox checkBox1;
     }
+     // tada.
 }
 
